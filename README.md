@@ -1,4 +1,4 @@
-# <p aligh="center">Ignews</p>
+# <p align="center">Ignews</p>
 
 ![print ignews](./public/print.png)
 
