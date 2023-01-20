@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test": "yarn jest --watch" 
+    "test": "yarn jest --watch"
   },
   "dependencies": {
     "@prismicio/client": "^5.0.0",
